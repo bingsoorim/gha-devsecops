@@ -1,6 +1,5 @@
 on: push
 name: testing
-
 jobs:
   ZAP:
     runs-on: ubuntu-latest
